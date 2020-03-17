@@ -3,7 +3,7 @@
   <entry>
     <title>Hello World</title>
     <url>/2020/03/16/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
@@ -21,7 +21,7 @@
   <entry>
     <title>根据Echarts自定义省市地图</title>
     <url>/2020/03/11/echartMap/</url>
-    <content><![CDATA[<h1 id="根据Echarts自定义省市地图"><a href="#根据Echarts自定义省市地图" class="headerlink" title="根据Echarts自定义省市地图"></a>根据Echarts自定义省市地图</h1><p>最近工作中出现制作数据可视化，需要自定义区域市的地图，实时显示各区的数据的需求，以前只用过echarts做过图表，没做过地图,于是找了点资料，最后终于实现了^_^。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="根据Echarts自定义省市地图"><a href="#根据Echarts自定义省市地图" class="headerlink" title="根据Echarts自定义省市地图"></a>根据Echarts自定义省市地图</h1><p>最近工作中出现制作数据可视化，需要自定义区域市的地图，实时显示各区的数据的需求，以前只用过echarts做过图表，没做过地图,于是找了点资料，最后终于实现了^_^。</p>
 <h5 id="首先引入所需要的echats的js文件"><a href="#首先引入所需要的echats的js文件" class="headerlink" title="首先引入所需要的echats的js文件"></a>首先引入所需要的echats的js文件</h5><ol>
 <li>echarts网址：<a href="https://www.echartsjs.com/zh/download.html" target="_blank" rel="noopener">https://www.echartsjs.com/zh/download.html</a></li>
 <li>地图省份的数据 ，找到自己需要区域的地图，可以下载其JSON数据，网址：<a href="http://datav.aliyun.com/tools/atlas/#&amp;lat=33.521903996156105&amp;lng=104.29849999999999&amp;zoom=4" target="_blank" rel="noopener">http://datav.aliyun.com/tools/atlas/#&amp;lat=33.521903996156105&amp;lng=104.29849999999999&amp;zoom=4</a></li>
@@ -40,5 +40,11 @@
 <p>效果图：</p>
 <p><img src="/2020/03/11/echartMap/image-20200314225102157.png" alt="alt"></p>
 ]]></content>
+      <categories>
+        <category>工作</category>
+      </categories>
+      <tags>
+        <tag>echarts</tag>
+      </tags>
   </entry>
 </search>

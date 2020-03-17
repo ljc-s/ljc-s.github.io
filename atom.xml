@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>LiuJinCheng</name>
     
   </author>
   
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -44,7 +44,7 @@
     <link href="http://yoursite.com/2020/03/11/echartMap/"/>
     <id>http://yoursite.com/2020/03/11/echartMap/</id>
     <published>2020-03-11T09:24:02.000Z</published>
-    <updated>2020-03-17T06:01:51.729Z</updated>
+    <updated>2020-03-17T06:35:33.935Z</updated>
     
     <summary type="html">
     
@@ -52,13 +52,17 @@
       
         
         
-          &lt;h1 id=&quot;根据Echarts自定义省市地图&quot;&gt;&lt;a href=&quot;#根据Echarts自定义省市地图&quot; class=&quot;headerlink&quot;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
     </summary>
     
     
+      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="echarts" scheme="http://yoursite.com/tags/echarts/"/>
     
   </entry>
   
